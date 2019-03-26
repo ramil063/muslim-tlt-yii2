@@ -1,0 +1,506 @@
+[2018.11.12 09:05:36] Launched version: 1004007, install beta: [TRUE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2018.11.12 09:05:36] Executable dir: C:/Users/abdullin.r/Downloads/Telegram Desktop/, name: Telegram Desktop Alpha.exe
+[2018.11.12 09:05:36] Initial working dir: C:/Users/abdullin.r/Downloads/Telegram Desktop/
+[2018.11.12 09:05:36] Working dir: C:/Users/abdullin.r/Downloads/Telegram Desktop/
+[2018.11.12 09:05:36] Command line: C:\Users\abdullin.r\Downloads\Telegram Desktop\Telegram Desktop Alpha.exe
+[2018.11.12 09:05:36] Executable path before check: C:/Users/abdullin.r/Downloads/Telegram Desktop/Telegram Desktop Alpha.exe
+[2018.11.12 09:05:36] Logs started
+[2018.11.12 09:05:36] Connecting local socket to Global\b54d7643fa62ed2f815e71c3b79a50e8-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2018.11.12 09:05:36] This is the only instance of Telegram, starting server and app...
+[2018.11.12 09:05:36] Moved logging from 'C:/Users/abdullin.r/Downloads/Telegram Desktop/log_start0.txt' to 'C:/Users/abdullin.r/Downloads/Telegram Desktop/log.txt'!
+[2018.11.12 09:05:36] Opened 'C:/Users/abdullin.r/Downloads/Telegram Desktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2018.11.12 09:05:36] Primary screen DPI: 96
+[2018.11.12 09:05:36] App Info: reading settings...
+[2018.11.12 09:05:36] App Info: reading encrypted settings...
+[2018.11.12 09:05:36] Lang Info: Loaded cached, keys: 2028
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_channel_admin_sure'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_connection_type'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_context_remove_admin'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_download_path_dont_ask'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_download_path_label'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_always#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_description'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_calls_never#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_always#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_description'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_groups_never#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_always#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_description'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_edit_privacy_lastseen_never#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_emoji_category0'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_gif'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_photo'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_sticker'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_video_file'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_video_message'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_export_state_voice_message'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_local_storage_cleared'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_media_auto_audio'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_media_auto_gif'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_media_auto_photo'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_passport_fix_errors'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_passport_front_side_name'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_passport_main_page_name'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_passport_reverse_side_name'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_passport_selfie_name'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_proxy_use'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_advanced_notifications'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_audios_cached#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_calls_privacy'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_edit_info'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_groups_invite_privacy'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#few'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#many'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#one'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#other'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#two'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_images_cached#zero'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_last_seen_privacy'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_no_data_cached'
+[2018.11.12 09:05:36] Lang Warning: Unknown key 'lng_settings_self_destruct'
+[2018.11.12 09:05:36] OpenAL Logging Level: (not set)
+[2018.11.12 09:05:36] Audio Playback Devices: OpenAL Soft
+[2018.11.12 09:05:36] Audio Playback Default Device: OpenAL Soft
+[2018.11.12 09:05:36] Audio Capture Devices: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Realtek High Definition Audio)
+[2018.11.12 09:05:36] Audio Capture Default Device: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Realtek High Definition Audio)
+[2018.11.12 09:05:36] App Info: reading map...
+[2018.11.12 09:05:36] App Info: reading encrypted map...
+[2018.11.12 09:05:36] App Info: reading encrypted user settings...
+[2018.11.12 09:05:36] App Info: encrypted user settings read.
+[2018.11.12 09:05:36] App Info: reading encrypted mtp data...
+[2018.11.12 09:05:36] MTP Info: read keys, current: 6, to destroy: 0
+[2018.11.12 09:05:36] Map read time: 25
+[2018.11.12 09:05:36] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:05:36] Export Info: Destroy top bar by controller removal.
+[2018.11.12 09:05:36] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:36] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2018.11.12 09:05:37] Update Error: could not get current version 3
+[2018.11.12 09:05:39] Lang Info: Up to date.
+[2018.11.12 09:05:39] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:05:39] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:40] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:05:40] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:41] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 09:05:41] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:05:41] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:41] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:42] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 09:05:42] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:05:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:05:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:06:13] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 09:06:13] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 09:06:13] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:06:13] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:06:14] App Info: writing encrypted user settings...
+[2018.11.12 09:06:15] App Info: writing encrypted user settings...
+[2018.11.12 09:06:17] App Info: writing encrypted user settings...
+[2018.11.12 09:06:19] App Info: writing encrypted user settings...
+[2018.11.12 09:06:20] App Info: writing encrypted user settings...
+[2018.11.12 09:06:22] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:06:22] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:06:23] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:06:23] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:06:23] App Info: writing encrypted user settings...
+[2018.11.12 09:06:25] App Info: writing encrypted user settings...
+[2018.11.12 09:06:38] App Info: writing encrypted user settings...
+[2018.11.12 09:06:44] App Info: writing encrypted user settings...
+[2018.11.12 09:09:43] App Info: writing encrypted user settings...
+[2018.11.12 09:12:46] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:12:48] Audio Info: Closing audio playback device.
+[2018.11.12 09:33:29] App Info: writing encrypted user settings...
+[2018.11.12 09:35:01] App Info: writing encrypted user settings...
+[2018.11.12 09:39:32] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:39:34] Audio Info: Closing audio playback device.
+[2018.11.12 09:39:57] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 09:39:57] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:41:41] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:41:43] Audio Info: Closing audio playback device.
+[2018.11.12 09:41:43] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:41:45] Audio Info: Closing audio playback device.
+[2018.11.12 09:42:01] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:42:03] Audio Info: Closing audio playback device.
+[2018.11.12 09:42:09] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:42:11] Audio Info: Closing audio playback device.
+[2018.11.12 09:42:22] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:42:24] Audio Info: Closing audio playback device.
+[2018.11.12 09:42:26] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 09:42:28] Audio Info: Closing audio playback device.
+[2018.11.12 09:54:03] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:54:03] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:54:04] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:54:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 09:54:06] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 09:54:06] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:00:11] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:00:11] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:00:12] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:00:12] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:18] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:06:18] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:06:18] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:18] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:19] App Info: writing encrypted user settings...
+[2018.11.12 10:06:19] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:06:19] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:19] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:06:19] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:06:20] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:20] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:20] App Info: writing encrypted user settings...
+[2018.11.12 10:06:20] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:06:20] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:06:21] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:21] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:26] App Info: writing encrypted user settings...
+[2018.11.12 10:06:28] App Info: writing encrypted user settings...
+[2018.11.12 10:06:53] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:06:53] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:06:53] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:53] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:06:54] App Info: writing encrypted user settings...
+[2018.11.12 10:07:38] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:07:40] Audio Info: Closing audio playback device.
+[2018.11.12 10:09:46] App Info: writing encrypted user settings...
+[2018.11.12 10:15:32] App Info: writing encrypted user settings...
+[2018.11.12 10:16:51] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:16:51] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:16:51] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:16:52] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:16:52] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:16:52] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:20:46] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:20:48] Audio Info: Closing audio playback device.
+[2018.11.12 10:23:41] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:23:43] Audio Info: Closing audio playback device.
+[2018.11.12 10:23:44] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:23:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:24:30] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:24:32] Audio Info: Closing audio playback device.
+[2018.11.12 10:24:55] App Info: writing encrypted user settings...
+[2018.11.12 10:24:58] Skipping message, because it is already in blocks!
+[2018.11.12 10:25:00] Skipping message, because it is already in blocks!
+[2018.11.12 10:25:27] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:25:29] Audio Info: Closing audio playback device.
+[2018.11.12 10:27:33] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 10:27:35] Audio Info: Closing audio playback device.
+[2018.11.12 10:30:02] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 10:30:02] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:30:03] App Info: writing encrypted user settings...
+[2018.11.12 10:41:52] App Info: writing encrypted user settings...
+[2018.11.12 10:44:29] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:44:29] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 10:44:29] TCP Error: other (10) - Address type not supported
+[2018.11.12 10:44:29] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:01] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 11:03:03] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:03:03] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:03:03] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:03] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:03] Audio Info: Closing audio playback device.
+[2018.11.12 11:03:22] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:22] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:23] App Info: writing encrypted user settings...
+[2018.11.12 11:03:23] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:23] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:24] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:24] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:25] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:25] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:25] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:25] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:27] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:27] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:29] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:29] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:03:31] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:03:31] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:04:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:04:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:04:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:04:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:04:47] App Info: writing encrypted user settings...
+[2018.11.12 11:04:47] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:04:47] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:04:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:04:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:09:39] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:09:39] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:09:40] App Info: writing encrypted user settings...
+[2018.11.12 11:09:41] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:09:41] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:02] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:10:02] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:04] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:10:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:08] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:10:08] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:10:08] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:08] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:47] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:10:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:10:49] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:10:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:11:00] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 11:11:02] Audio Info: Closing audio playback device.
+[2018.11.12 11:11:34] App Info: writing encrypted user settings...
+[2018.11.12 11:11:39] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:11:39] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:11:40] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:11:40] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:11:43] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:11:43] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:11:44] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:11:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:11:44] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:11:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:13:49] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:13:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:20:16] App Info: writing encrypted user settings...
+[2018.11.12 11:29:40] App Info: writing encrypted user settings...
+[2018.11.12 11:42:49] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:42:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:42:49] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 11:42:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 11:42:51] App Info: writing encrypted user settings...
+[2018.11.12 11:42:52] App Info: writing encrypted user settings...
+[2018.11.12 11:46:47] App Info: writing encrypted user settings...
+[2018.11.12 11:46:48] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 11:46:48] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:15:46] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:15:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:15:47] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:15:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:04] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:04] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:05] App Info: writing encrypted user settings...
+[2018.11.12 13:18:06] App Info: writing encrypted user settings...
+[2018.11.12 13:18:07] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:18:07] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:08] App Info: writing encrypted user settings...
+[2018.11.12 13:18:08] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:18:09] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:47] App Info: writing encrypted user settings...
+[2018.11.12 13:18:47] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:47] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:18:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:18:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:36] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 13:19:38] Audio Info: Closing audio playback device.
+[2018.11.12 13:19:53] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:19:53] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:54] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:19:54] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:54] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:54] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:54] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:54] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:54] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:19:54] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:55] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:19:55] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:55] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:55] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:55] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:55] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:57] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:57] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:19:57] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:57] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:19:59] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 13:20:06] Skipping message, because it is already in blocks!
+[2018.11.12 13:20:18] Audio Error: Unable to avcodec_send_packet() file '', data size '42337', error -22, Invalid argument
+[2018.11.12 13:20:21] Audio Info: Closing audio playback device.
+[2018.11.12 13:30:23] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:30:23] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:30:23] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:30:23] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:30:24] App Info: writing encrypted user settings...
+[2018.11.12 13:30:24] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:30:24] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:32:55] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 13:32:55] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:35:20] App Info: writing encrypted user settings...
+[2018.11.12 13:38:13] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 13:38:15] Audio Info: Closing audio playback device.
+[2018.11.12 13:38:24] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 13:38:26] Audio Info: Closing audio playback device.
+[2018.11.12 13:48:11] Skipping message, because it is already in blocks!
+[2018.11.12 13:48:52] App Info: writing encrypted user settings...
+[2018.11.12 13:50:35] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 13:50:37] Audio Info: Closing audio playback device.
+[2018.11.12 13:59:47] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 13:59:47] TCP Error: other (10) - Address type not supported
+[2018.11.12 13:59:48] App Info: writing encrypted user settings...
+[2018.11.12 14:00:43] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 14:00:45] Audio Info: Closing audio playback device.
+[2018.11.12 14:13:39] App Info: writing encrypted user settings...
+[2018.11.12 14:22:48] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 14:22:50] Audio Info: Closing audio playback device.
+[2018.11.12 14:36:42] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 14:36:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:43] App Info: writing encrypted user settings...
+[2018.11.12 14:36:43] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:43] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:43] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:43] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:44] App Info: writing encrypted user settings...
+[2018.11.12 14:36:44] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:44] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:36:46] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:36:46] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:37:48] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:37:48] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:37:48] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:37:48] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:37:49] App Info: writing encrypted user settings...
+[2018.11.12 14:37:49] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:37:49] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:37:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:37:49] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:46:42] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:46:42] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 14:46:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:46:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 14:46:43] App Info: writing encrypted user settings...
+[2018.11.12 14:54:06] App Info: writing encrypted user settings...
+[2018.11.12 15:25:58] App Info: writing encrypted user settings...
+[2018.11.12 15:30:29] App Info: writing encrypted user settings...
+[2018.11.12 16:13:58] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:13:58] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:13:58] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:13:58] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:13:59] App Info: writing encrypted user settings...
+[2018.11.12 16:14:01] App Info: writing encrypted user settings...
+[2018.11.12 16:14:02] App Info: writing encrypted user settings...
+[2018.11.12 16:14:02] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 16:14:02] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 16:14:02] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:14:02] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:16:52] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:16:52] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:16:52] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:16:52] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:18:24] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 16:18:24] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:35:34] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:35:34] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:35:35] App Info: writing encrypted user settings...
+[2018.11.12 16:35:43] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 16:35:43] TCP Error: other (10) - Address type not supported
+[2018.11.12 16:35:44] App Info: writing encrypted user settings...
+[2018.11.12 16:36:44] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 16:36:46] Audio Info: Closing audio playback device.
+[2018.11.12 16:36:47] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 16:36:49] Audio Info: Closing audio playback device.
+[2018.11.12 16:54:36] App Info: writing encrypted user settings...
+[2018.11.12 17:05:36] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 17:05:36] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:05:36] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 17:05:36] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:18:42] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 17:18:42] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:18:43] App Info: writing encrypted user settings...
+[2018.11.12 17:18:44] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 17:18:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:18:45] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 17:18:45] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:22:01] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 17:22:01] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 17:22:01] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:22:01] TCP Error: other (10) - Address type not supported
+[2018.11.12 17:22:02] App Info: writing encrypted user settings...
+[2018.11.12 17:30:50] App Info: writing encrypted user settings...
+[2018.11.12 17:48:40] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 17:48:42] Audio Info: Closing audio playback device.
+[2018.11.12 17:48:47] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 17:48:49] Audio Info: Closing audio playback device.
+[2018.11.12 17:49:49] Audio Info: recreating audio device and reattaching the tracks
+[2018.11.12 17:49:51] Audio Info: Closing audio playback device.
+[2018.11.12 17:50:14] Update Error: could not get current version 3
+[2018.11.12 17:51:33] App Info: writing encrypted user settings...
+[2018.11.12 18:05:04] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 18:05:04] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 18:05:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:05:04] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:05:05] App Info: writing encrypted user settings...
+[2018.11.12 18:05:05] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 18:05:05] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:05:06] App Info: writing encrypted user settings...
+[2018.11.12 18:05:07] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:05:07] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:05:08] App Info: writing encrypted user settings...
+[2018.11.12 18:05:08] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:05:08] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:06:19] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:06:19] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:06:20] App Info: writing encrypted user settings...
+[2018.11.12 18:06:22] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:06:22] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:06:23] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:06:23] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:08:02] Skipping message, because it is already in blocks!
+[2018.11.12 18:08:18] Skipping message, because it is already in blocks!
+[2018.11.12 18:10:39] App Info: writing encrypted user settings...
+[2018.11.12 18:10:44] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 18:10:44] TCP Error: other (10) - Address type not supported
+[2018.11.12 18:10:44] RPC Error: request 1846 got fail with code 400, error USER_NOT_PARTICIPANT
+[2018.11.12 18:10:45] App Info: writing encrypted user settings...
+[2018.11.12 19:00:12] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 19:00:12] TCP Error: other (10) - Address type not supported
+[2018.11.12 19:00:57] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 19:00:57] HTTP Error: host not found - Host 2001:67c:4e8:f004::b not found
+[2018.11.12 19:00:57] TCP Error: other (10) - Address type not supported
+[2018.11.12 19:00:57] TCP Error: other (10) - Address type not supported
+[2018.11.12 19:00:58] App Info: writing encrypted user settings...
+[2018.11.12 19:00:59] App Info: writing encrypted user settings...
+[2018.11.12 19:01:00] HTTP Error: host not found - Host 2001:67c:4e8:f002::a not found
+[2018.11.12 19:01:00] TCP Error: other (10) - Address type not supported
+[2018.11.12 19:01:00] App Info: writing encrypted user settings...
+[2018.11.12 19:01:11] App Info: writing encrypted user settings...
+[2018.11.12 19:01:12] App Info: writing encrypted user settings...
