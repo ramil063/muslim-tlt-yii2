@@ -16,6 +16,7 @@ class m190219_074832_insert_content extends Migration
         $user = \common\models\User::find()
             ->where(['login' => 'ramil_063'])
             ->one();
+
         if ($user) {
             $this->insertData($user->id);
         }
